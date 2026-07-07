@@ -4,3 +4,5 @@ lets make a change
 making another change here
 
 lets update this from FeatureA branch
+
+this is a squarch merge
